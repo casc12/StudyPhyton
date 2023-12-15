@@ -58,33 +58,10 @@
         "fibo(100)"
       ],
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "GhuME0JUKmiR",
-        "outputId": "0395376c-242d-4e22-ec6d-83cb4fad40f8"
+        "id": "GhuME0JUKmiR"
       },
       "execution_count": null,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "0\n",
-            "1\n",
-            "1\n",
-            "2\n",
-            "3\n",
-            "5\n",
-            "8\n",
-            "13\n",
-            "21\n",
-            "34\n",
-            "55\n",
-            "89\n"
-          ]
-        }
-      ]
+      "outputs": []
     },
     {
       "cell_type": "code",
